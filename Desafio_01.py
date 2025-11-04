@@ -4,7 +4,7 @@ percentualbonus=float(input("Digite o bonus:"))
 bonus_total= salario * percentualbonus / 100
 
 ###########################
-#print("Nome: ", nome)
+print("Nome: ", nome)
 #print("Total do bonus: ", bonus_total) 
 #print("Salario com bonus: ", salario + bonus_total)    
 #############################
